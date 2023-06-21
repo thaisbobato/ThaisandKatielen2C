@@ -9,6 +9,11 @@ body {
   padding: 0;
   padding top: 10px ;
   text-align: center;
-  
 } 
   
+body {
+  margin: 0;
+  padding: 0;
+  padding top: 10px ;
+  text-align: center;
+}
