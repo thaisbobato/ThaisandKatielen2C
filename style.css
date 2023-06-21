@@ -10,10 +10,10 @@ body {
   padding top: 10px ;
   text-align: center;
 } 
+  {
+    width: 800px;
+    text-align: left;
+    border: 0;
+    margin: 0 auto;
+  }
   
-body {
-  margin: 0;
-  padding: 0;
-  padding top: 10px ;
-  text-align: center;
-}
