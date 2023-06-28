@@ -10,7 +10,12 @@ body {
   padding top: 10px ;
   text-align: center;
 } 
-  {
+  
+h1{
+  color: blue;
+}
+
+{
     width: 800px;
     text-align: left;
     border: 0;
