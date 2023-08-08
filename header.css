@@ -5,3 +5,14 @@
     align-items: center;
     position: relative;
     }
+
+  @media screen and (min-widht: 768px) {
+            .container_titulo{
+                font-size: 30px;
+                display: inline-block;
+            }
+
+            .container_titulo{
+                font-weight: 400;
+            }
+  }
